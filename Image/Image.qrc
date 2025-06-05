@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cat/catWidget.png</file>
+        <file>cat/caiDan.png</file>
+        <file>cat/caiDanJM.png</file>
+    </qresource>
+</RCC>
